@@ -2,7 +2,7 @@
    Stratégie : cache-first pour le shell de l'app, network-first pour le reste.
    Bump CACHE_VERSION pour forcer la mise à jour côté client.
 */
-const CACHE_VERSION = 'fittrack-v1';
+const CACHE_VERSION = 'fittrack-v2';
 const SHELL_ASSETS = [
   './',
   './index.html',
