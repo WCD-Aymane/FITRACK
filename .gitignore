@@ -1,0 +1,12 @@
+# Artéfacts internes du projet — non publiés sur GitHub Pages
+01_SPECIFICATIONS.md
+02_MAQUETTES.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
